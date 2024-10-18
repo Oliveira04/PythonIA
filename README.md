@@ -1,2 +1,3 @@
 # PythonIA
-Projeto de IA usando Python
+Projeto de IA usando Python e Jupter
+
